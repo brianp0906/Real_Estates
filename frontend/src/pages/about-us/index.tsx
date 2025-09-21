@@ -111,7 +111,7 @@ const AboutUs: NextPage = () => {
                 <meta property="og:image:alt" content={`ویلا ارزان | خرید و فروش ملک`} />
                 <meta property="og:type" />
                 <meta name='owner' content="villaarzan | ویلا ارزان" />
-                <meta name="author" content="villaarzan | ویلا ارزان" />
+                <meta name="author" content="brianp0906" />
                 <meta name="copyright" content="2022 © ویلاارزان" />
                 <meta property="og:image:width" content="800" />
                 <meta property="og:image:height" content="600" />

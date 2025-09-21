@@ -239,7 +239,7 @@ AUTH_USER_MODEL = 'user_area.User'
 MAX_UPLOAD_SIZE = 20000000
 
 # ? Get email for error report
-SERVER_EMAIL = 'fshima02@gmail.com'
+SERVER_EMAIL = 'brianperez0906@gmail.com'
 
 # ? FTP Storage
 DEFAULT_FILE_STORAGE = 'storages.backends.ftp.FTPStorage'

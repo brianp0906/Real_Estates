@@ -158,7 +158,7 @@ const Footer = () => {
                                             <span className="text-2xl font-bold">ایمیل</span>
                                         </h2>
 
-                                        <p>Villaarzan.mazandaran@gmail.com</p>
+                                        <p>brianperez0906@gmail.com</p>
                                     </div>
                                 </div>
 

@@ -161,7 +161,7 @@ const SingleBlog: NextPage = ({ data,id }: any) => {
                 <meta name="twitter:description" content={data?.article.content} />
                 <meta name="twitter:title" content={data?.article.title} />
                 <meta name='owner' content="villaarzan | ویلا ارزان" />
-                <meta name="author" content="villaarzan | ویلا ارزان" />
+                <meta name="author" content="brianp0906" />
                 <meta name="copyright" content="2022 © ویلاارزان" />
                 <meta property="og:image:width" content="800" />
                 <meta property="og:image:height" content="600" />

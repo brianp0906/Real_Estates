@@ -164,7 +164,7 @@ const CityPage: NextPageWithLayout = ({query, sections, categoriesByCity}: any) 
                         <meta name='robots' content='index,follow'/>
                         <meta name='googlebot' content='index,follow'/>
                         <meta name='owner' content="villaarzan | ویلا ارزان"/>
-                        <meta name="author" content="villaarzan | ویلا ارزان"/>
+                        <meta name="author" content="brianp0906"/>
                         <meta name="copyright" content="2022 © ویلاارزان"/>
                         <meta property="og:image:width" content="800"/>
                         <meta property="og:image:height" content="600"/>

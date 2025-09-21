@@ -78,7 +78,7 @@ const Home: NextPageWithLayout = ({ properties,blogs,best_advisors,counters,best
                 <meta name='title' content='ویلا ارزان' />
                 <meta name='description' content='ویلا ارزان | تخصص ما مناطق شمالی کشور است' />
                 <meta name='owner' content="villaarzan | ویلا ارزان" />
-                <meta name="author" content="villaarzan | ویلا ارزان" />
+                <meta name="author" content="brianp0906" />
                 <meta name="copyright" content="2022 © ویلاارزان" />
                 <meta property="og:image" content="https://villaarzan.com/img/landing-min.png" />
                 <meta property="og:image:alt" content="villaarzan | ویلا ارزان" />

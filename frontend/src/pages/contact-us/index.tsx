@@ -157,7 +157,7 @@ const ContactUs: NextPage = () => {
                 <meta name="twitter:description" content="تخصص ما مناطق شمالی کشور است"/>
                 <meta name="twitter:title" content="ویلا ارزان"/>
                 <meta name='owner' content="villaarzan | ویلا ارزان"/>
-                <meta name="author" content="villaarzan | ویلا ارزان" />
+                <meta name="author" content="brianp0906" />
                 <meta name="copyright" content="2022 © ویلاارزان"/>
                 <meta property="og:image:width" content="800" />
                 <meta property="og:image:height" content="600" />
@@ -370,7 +370,7 @@ const ContactUs: NextPage = () => {
                             </svg>
                             <span className="mr-4  text-xl font-bold ml-6">ایمیل</span>
                             <div className="flex flex-row items-center gap-x-8">
-                                <span className="text-xl font-medium"> Villaarzan.mazandaran@gmail.com</span>
+                                <span className="text-xl font-medium"> brianperez0906@gmail.com</span>
                             </div>
                         </div>
                     </div>

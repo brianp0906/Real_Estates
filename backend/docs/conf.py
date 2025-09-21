@@ -15,7 +15,7 @@ django.setup()
 
 project = 'villaarzan'
 copyright = '2023, shima'
-author = 'shima'
+author = 'brianp0906'
 release = '1.0.0'
 
 # -- General configuration ---------------------------------------------------
